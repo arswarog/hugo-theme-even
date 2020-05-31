@@ -1,0 +1,102 @@
+# ===== title =====
+archive:
+  other: "Архив"
+
+tags:
+  other: "Теги"
+
+categories:
+  other: "Категории"
+
+# ===== footer =====
+powered:
+  other: "Powered by %s"
+
+theme:
+  other: "Theme"
+
+siteUV:
+  other: "site uv: %s"
+
+sitePV:
+  other: "site pv: %s"
+
+pagePV:
+  other: "%s times read"
+
+# ===== post =====
+prevPage:
+  other: "Назад"
+
+nextPage:
+  other: "Далее"
+
+prevPost:
+  other: "Предыдущий пост"
+
+nextPost:
+  other: "Следующий пост"
+
+toc:
+  other: "Contents"
+
+readMore:
+  other: "Читать дальше..."
+
+reward:
+  other: "Reward"
+
+rewardAlipay:
+  other: "alipay"
+
+rewardWechat:
+  other: "wechat"
+
+wordCount:
+  one: "{{ .Count }} word"
+  other: "{{ .Count }} words"
+
+readingTime:
+  one: "{{ .Count }} min read"
+  other: "{{ .Count }} mins read"
+
+outdatedInfoWarningBefore:
+  other: "[NOTE] Updated "
+
+outdatedInfoWarningAfter:
+  other: ". This article may have outdated content or subject matter."
+
+# ===== content license =====
+author:
+  other: "Автор"
+
+lastMod:
+  other: "Обновлено"
+
+markdown:
+  other: "Markdown"
+
+seeMarkDown:
+  other: "The Markdown version »"
+
+license:
+  other: "Лицензия"
+
+# ===== counter =====
+archiveCounter:
+  one: "{{ .Count }} Post In Total"
+  other: "{{ .Count }} Posts In Total"
+
+tagCounter:
+  one: "{{ .Count }} Tag In Total"
+  other: "{{ .Count }} Tags In Total"
+
+zeroTagCounter:
+  other: "No tags"
+
+categoryCounter:
+  one: "{{ .Count }} Category In Total"
+  other: "{{ .Count }} Categories In Total"
+
+zeroCategoryCounter:
+  other: "No categories"
